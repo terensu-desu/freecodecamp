@@ -1,0 +1,15 @@
+table {
+	background-color: #fafafa;
+}
+td {
+	height: 250px;
+	border: 1px black solid;
+}
+
+.maru {
+	background-color: blue;
+}
+
+.batsu {
+	background-color: green;
+}
