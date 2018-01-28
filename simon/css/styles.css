@@ -1,0 +1,45 @@
+body {
+	background-color: #7f7f7f;
+}
+
+table {
+	margin: 0 auto;
+	width: 600px;	
+	background-color: transparent;
+	box-shadow: 5px 7px lightgrey;
+}
+
+td {
+	width: 50%;
+	height: 150px;
+}
+
+#blue {
+	color: white;
+	background-color: blue;
+	filter: brightness(90%);
+}
+
+#green {
+	color: white;
+	background-color: green;
+	filter: brightness(90%);
+}
+
+#red {
+	background-color: red;
+	filter: brightness(90%);
+}
+
+#yellow {
+	background-color: yellow;
+	filter: brightness(90%);
+}
+
+.glow {
+	filter: brightness(150%) !important;
+}
+
+.lightup {
+	color: yellow;
+}
