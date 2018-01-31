@@ -6,12 +6,12 @@ table {
 	margin: 0 auto;
 	width: 600px;	
 	background-color: transparent;
-	box-shadow: 5px 7px lightgrey;
 }
 
 td {
 	width: 50%;
 	height: 150px;
+	border: 10px white solid;
 }
 
 #blue {
