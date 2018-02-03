@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+	font-family: 'Didact Gothic'; 
+  font-weight: normal; 
+  font-style: normal; 
+	background-color: #4a148c;
+}
+
+.twitch {
+	background-color: #6441a4;
+	color: white;
+}
+
+span, a {
+	color: #4a148c;
+}
+
+.btn-accent {
+	background-color:  #4a148c;
+}
+
+.card-round {
+	border-radius: 10px
+}
+
+.no-margin-top {
+	margin-top: 0 !important;
+}
+
+.no-margin-bot {
+	margin-bottom: 0 !important;
+}
+
+table {
+	margin-top: 20px;
+	background-color: white;
+	/*border-radius: 10px;*/
+}
+td {
+	font-size: 1.2rem;
+}
+.user-logo {
+	height: 150px;
+	width: 150px;
+}
